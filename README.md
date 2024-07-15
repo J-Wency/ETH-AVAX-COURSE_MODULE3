@@ -14,4 +14,5 @@ Two functions are present in the `.sol` script. `CompareTwoNums(uint a, uint b)`
 
 To test the functions, deploy the contract then expand the details of the contract itself. There will be two functions displayed which can also be expanded to show both input fields. 
 
-Inserting numbers will either result in a successful function, or an error catching mechanism will trigger. The modifier `onlyAdmin()` catches an error if you use a different wallet to use the contract upon deployment. .
+Inserting numbers will either result in a successful function, or an error catching mechanism will trigger. The modifier `onlyAdmin()` catches an error if you use a different wallet to use the contract upon deployment.
+
