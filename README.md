@@ -14,7 +14,7 @@ This program is a project requirement for Module 3. It is a demonstration of a t
 7. Select `ERC20Token.sol` as the contract, add in details such as Token Name and Symbol.
 8. Play around the ERC20, mint, and burn functions.
 
-#Contact
+# Contact
 J-Wency, wenceslao.joseph.s@gmail.com
 
 # License
