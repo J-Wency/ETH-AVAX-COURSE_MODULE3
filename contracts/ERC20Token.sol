@@ -18,6 +18,7 @@ contract MyToken is ERC20 {
         _burn(msg.sender, amount);
     }
 
-    //Transfer function is built-in with the ERC20 standard.
-    //the function transfer(address from, address to, uin256 value) does the functionality.
+    function transfer(address from, address to, uint256 value) public {
+        _transfer(from, to, value);
+    }
 }
